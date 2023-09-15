@@ -1,0 +1,438 @@
+    body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    code {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    }
+
+    .customer {
+        font-size: 3rem;
+        background-color: rgb(254, 248, 238, 0.4);
+        height: 5rem;
+        width: 5rem;
+        margin: 0;
+        position: relative;
+        text-align: center;
+        top: -5.3rem;
+        padding: 1.3rem;
+        padding-left: 40rem;
+        padding-right: 46rem;
+    }
+
+    .color {
+        background-color: rgb(240, 246, 246);
+        height: auto;
+        width: auto;
+    }
+
+    .color1 {
+        background-color: white;
+    }
+
+    .mcolor {
+        background-color: antiquewhite;
+        height: 263rem;
+        width: 100rem;
+        margin-left: 10rem;
+    }
+
+    .hr {
+        text-align: center;
+        font-size: 2.5rem;
+        padding: 3rem;
+        font-weight: 500;
+        margin-top: -4.2rem;
+    }
+
+    .bt {
+        text-align: center;
+        font-size: 1.3rem;
+        font-weight: 500;
+        padding-bottom: 0.5rem;
+        margin-bottom: 6rem;
+        position: relative;
+        top: -4rem;
+    }
+
+    .or {
+        color: rgb(228, 85, 53);
+        font-weight: 670;
+    }
+
+    .or1 {
+        font-size: 2rem;
+        position: relative;
+        bottom: 1rem;
+    }
+
+    .vi {
+        font-weight: 600;
+        color: white;
+        font-size: 1rem;
+        background-color: rgb(245, 71, 27);
+        border-radius: 15px;
+        padding: 0.8rem;
+        border: rgb(156, 50, 5);
+        width: 15rem;
+        position: relative;
+        bottom: 2rem;
+    }
+
+    .color2 {
+        background-color: rgb(238, 240, 242);
+        position: absolute;
+        width: 89rem;
+        bottom: -2rem;
+        padding-bottom: 0.5rem;
+        padding: 1rem;
+        margin-bottom: -5.65rem;
+        margin-right: 4rem;
+        padding-left: 6rem;
+        padding-right: 5rem;
+    }
+
+    .in {
+        position: relative;
+        bottom: -5rem;
+        background-color: white;
+        padding: 3.5rem;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        /* grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr; */
+        row-gap: 3rem;
+        column-gap: 0rem;
+    }
+
+    .up {
+        position: relative;
+        left: 28.2rem;
+        top: 2rem;
+        padding-right: 8rem;
+        padding-top: 4rem;
+    }
+
+    .tc {
+        font-size: 2.2rem;
+        position: relative;
+        bottom: 15rem;
+        right: 31rem;
+    }
+
+    .pa {
+        font-size: 1.3rem;
+        text-align: left;
+        position: relative;
+        bottom: 17rem;
+        right: -8.8rem;
+    }
+
+    .dc {
+        font-weight: 600;
+        font-size: 1.4rem;
+        position: relative;
+        bottom: 17rem;
+        right: 34.2rem;
+        color: #da530b;
+    }
+
+    .si {
+        background-color: #e6e0dc;
+        width: 5rem;
+        height: 5rem;
+        position: relative;
+        bottom: 28.5rem;
+        left: 52.5rem;
+        padding-top: 2.5rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .color3 {
+        background-color: aliceblue;
+        height: 36.5rem;
+        position: relative;
+        top: 3.5rem;
+    }
+
+    .wpw {
+        font-size: 1.9rem;
+        text-align: left;
+    }
+
+    .li1 {
+        text-align: left;
+        font-size: 1.3rem;
+        padding: 0.1rem;
+    }
+
+    .column {
+        box-sizing: border-box;
+    }
+
+    .column {
+        float: left;
+        width: 50%;
+        padding: 8px;
+        height: 300px;
+        padding-left: 3rem;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .color4 {
+        background-color: rgba(242, 230, 227, 0.9);
+        height: 31.5rem;
+        width: 85rem;
+        padding-left: 5rem;
+        margin-right: 5rem;
+        position: relative;
+        bottom: 38.2rem;
+        padding-bottom: 5rem;
+        left: 5rem;
+    }
+
+    .lea8 {
+        font-weight: 600;
+        color: white;
+        font-size: 1rem;
+        background-color: rgb(245, 71, 27);
+        border-radius: 15px;
+        padding: 0.8rem;
+        border: rgb(156, 50, 5);
+        width: 12rem;
+        position: relative;
+        right: 24rem;
+        bottom: -1rem;
+    }
+
+    .vbi {
+        position: relative;
+        top: 3rem;
+    }
+
+    .up1 {
+        position: relative;
+        top: 4rem;
+        left: -24rem;
+    }
+
+    .vc {
+        font-size: 2.2rem;
+        position: relative;
+        bottom: 18rem;
+        left: 12rem;
+    }
+
+    .lh {
+        font-size: 1.3rem;
+        text-align: left;
+        position: relative;
+        bottom: 20rem;
+        left: 52rem;
+    }
+
+    .dc1 {
+        font-weight: 700;
+        font-size: 1.3rem;
+        position: relative;
+        bottom: 20rem;
+        left: 8.6rem;
+        color: #da530b;
+    }
+
+    .color5 {
+        background-color: rgb(228, 200, 200);
+        width: 100rem;
+        position: relative;
+        left: -10rem;
+        top: 22rem;
+        height: 34rem;
+    }
+
+    .vci {
+        position: relative;
+        left: -5.8rem;
+        background-color: #e6e0dc;
+        width: 12rem;
+        padding: 1.2rem;
+        top: 9rem;
+    }
+
+    .video {
+        position: relative;
+        width: 72.5rem;
+        height: 27rem;
+        bottom: 2.8rem;
+        right: 10rem;
+        background-color: rgb(241, 236, 230);
+        padding: 2.5rem;
+        padding-left: 25rem;
+    }
+
+    .wire3 {
+        position: relative;
+        right: 40rem;
+        bottom: 12rem;
+    }
+
+    .I1,
+    .I11 {
+        position: relative;
+        right: 15rem;
+        bottom: 19rem;
+        font-weight: 600;
+        font-size: 1.3rem;
+        text-decoration-line: underline;
+    }
+
+    .I2,
+    .I4,
+    .I6,
+    .I8,
+    .I10 {
+        position: relative;
+        right: 18rem;
+        bottom: 21rem;
+        font-size: 1.2rem;
+    }
+
+    .I3,
+    .I5,
+    .I7,
+    .I9,
+    .I12,
+    .I13,
+    .I14,
+    .I15,
+    .I16,
+    .I17,
+    .twit,
+    .lin,
+    .face,
+    .you {
+        position: relative;
+        right: 6.2rem;
+        bottom: 26.4rem;
+        font-size: 1.2rem;
+    }
+
+    .I4 {
+        position: relative;
+        bottom: 28.9rem;
+        right: 17.7rem;
+    }
+
+    .I5 {
+        position: relative;
+        bottom: 34.2rem;
+        right: 6.2rem;
+    }
+
+    .I6 {
+        position: relative;
+        bottom: 36.5rem;
+        right: 19rem;
+    }
+
+    .I7 {
+        position: relative;
+        bottom: 41.7rem;
+        right: 5.3rem;
+    }
+
+    .I8 {
+        position: relative;
+        bottom: 44.2rem;
+        right: 18.5rem;
+    }
+
+    .I9 {
+        position: relative;
+        bottom: 49.4rem;
+        right: 6.3rem;
+    }
+
+    .I10 {
+        position: relative;
+        bottom: 52rem;
+        right: 18.5rem;
+    }
+
+    .I11 {
+        position: relative;
+        right: -12rem;
+        bottom: 72.9rem;
+    }
+
+    .I12 {
+        position: relative;
+        right: -15rem;
+        bottom: 74.6rem;
+    }
+
+    .I13 {
+        position: relative;
+        right: -19.4rem;
+        bottom: 76.7rem;
+    }
+
+    .I14 {
+        position: relative;
+        right: -17.3rem;
+        bottom: 80.5rem;
+    }
+
+    .I15 {
+        position: relative;
+        right: 32rem;
+        bottom: 76rem;
+        font-size: 1.2rem;
+    }
+
+    .I16 {
+        position: relative;
+        right: 23rem;
+        bottom: 79.7rem;
+        font-size: 1.2rem;
+    }
+
+    .I17 {
+        position: relative;
+        right: 41.9rem;
+        bottom: 95.4rem;
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+
+    .twit {
+        position: relative;
+        right: 43.4rem;
+        bottom: 96rem;
+    }
+
+    .lin {
+        position: relative;
+        right: 41rem;
+        bottom: 98.2rem;
+    }
+
+    .face {
+        position: relative;
+        right: 38.6rem;
+        bottom: 100.3rem;
+    }
+
+    .you {
+        position: relative;
+        right: 36.2rem;
+        bottom: 102.3rem;
+    }
